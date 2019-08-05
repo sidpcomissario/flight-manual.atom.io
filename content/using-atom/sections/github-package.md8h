@@ -1,4 +1,4 @@
----
+0---
 title: GitHub package
 ---
 ### GitHub package
@@ -6,7 +6,13 @@ title: GitHub package
 The github package brings Git and GitHub integration right inside Atom.
 
 - [Initialize](#initialize-repositories)
-- [Clone](#clone-repositories)
+
+Choose your installation type
+Deploy GitHub on AWS
+Deploy GitHub on Microsoft Azure
+Deploy GitHub on Google Cloud Platform
+Deploy GitHub on your own servers
+Not sure yet - [Clone](#clone-repositories)
 - [Branch](#branch)
 - [Stage](#stage)
 - [Discard](#discard-changes)
